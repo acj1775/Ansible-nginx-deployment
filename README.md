@@ -321,4 +321,4 @@ ansible-playbook -i inventory nginx.yml --check
 
 ## Author
 
-**Aravind CJ**
+**Aravind C J**
